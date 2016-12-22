@@ -1,0 +1,14 @@
+
+.chapter-thumbnail {
+  margin-top: 10px;   
+  white-space : pre;  /* preserve the original line breaks and spacing*/
+  overflow : hidden;  /* don't show a scroll bar */
+  max-height: 150px;  
+  height : 150px;     
+  border-radius: 10px;
+}
+
+#mainViewer {
+  margin-top: 10px;   
+  white-space : pre;   
+}
